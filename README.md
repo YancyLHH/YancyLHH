@@ -5,7 +5,6 @@
   
   <p>
     <a href="https://github.com/YancyLHH"><img src="https://img.shields.io/badge/GitHub-YancyLHH-181717?style=flat-square&logo=github" alt="GitHub"/></a>
-    <img src="https://img.shields.io/badge/Target-中国科学院大学_软件研究所-FF6F00?style=flat-square" alt="Target"/>
     <img src="https://img.shields.io/badge/Focus-AI_Compiler_%2F_LLVM_%2F_MLIR-512BD4?style=flat-square" alt="Focus"/>
   </p>
 
@@ -32,8 +31,6 @@
 🎯 **研究方向**：AI Compiler · LLVM/MLIR · 高性能代码生成 · 程序分析与优化
 
 📧 **联系方式**：1902259309@qq.com
-
-📚 **个人信条**：系统性地理解问题，工程化地解决问题。
 
 </td>
 <td width="35%" align="center">
@@ -173,17 +170,6 @@
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub 统计
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YancyLHH&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YancyLHH&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</div>
-
----
 
 ## 🗺️ 当前路线图
 
